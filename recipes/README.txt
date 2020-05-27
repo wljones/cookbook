@@ -1,1 +1,1 @@
-Put your recipes in this directory, one recipe per file.
+PUT YOUR RECIPES IN THIS DIRECTORY, ONE RECIPE PER FILE.
